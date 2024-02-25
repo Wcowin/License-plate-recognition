@@ -1,10 +1,9 @@
 # 基于百度API和Tkinter库的智能车牌识别系统  
 
-***  
-
 示例：
-![](https://cn.mcecy.com/image/20230315/2936069fd01d56aa902213a060895988.png)  
-
+![](https://s1.imagehub.cc/images/2024/02/01/2c99ad9187609f236ae8080995a6e370.png)
+![](https://s1.imagehub.cc/images/2024/02/01/1e8b8db5847e7bf66453869632d497af.png)
+[视频教程](https://www.bilibili.com/video/BV1zM411W7xU/?share_source=copy_web&vd_source=4dbf1142085feeb1d5010d6a9e4199be)
 ## 特点：
 - 可实现车牌号和车牌颜色识别
 - 代码简洁,小白易懂
@@ -23,4 +22,4 @@
 3.本声明未涉及之处请参见国家有关法律法规，当本声明与国家有关法律法规冲突时，以国家法律法规为准。
 
 ## 鸣谢
-感谢姚双同学的领导， 感谢[王科文](https://muselink.cc/Wcowin)同学对于本项目代码的构建， 感谢熊麒、彭金森、张云飞、亓文杰、彭金森、黄鹏对于本项目做出的建议及文档编写
+感谢姚双同学。感谢[王科文](https://muselink.cc/Wcowin)同学对于本项目代码的构建， 感谢熊麒、彭金森、张云飞、亓文杰、彭金森、黄鹏对于本项目做出的建议及文档编写
